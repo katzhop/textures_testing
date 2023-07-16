@@ -1,0 +1,3 @@
+C:/Users/ke_ni/OneDrive/Documents/Freshman - Junior/CS 4722/assignment6 - mixcolors file - Nichols/m04-textures/cmake-build-debug/CMakeFiles/06-mixed-colors.dir
+C:/Users/ke_ni/OneDrive/Documents/Freshman - Junior/CS 4722/assignment6 - mixcolors file - Nichols/m04-textures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ke_ni/OneDrive/Documents/Freshman - Junior/CS 4722/assignment6 - mixcolors file - Nichols/m04-textures/cmake-build-debug/CMakeFiles/rebuild_cache.dir

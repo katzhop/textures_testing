@@ -1,0 +1,6 @@
+# ninja log v5
+48	13686	6905369044229657	CMakeFiles/06-mixed-colors.dir/06-mixed-colors/mixed-colors.cpp.obj	15133ac482918748
+12	1431	7112249428010756	build.ninja	412e1b08aee8a6a0
+13694	15389	6905369061166567	06-mixed-colors.exe	464ba6aeeaa557f5
+12	2941	7112249549622806	CMakeFiles/06-mixed-colors.dir/06-mixed-colors/mixed-colors.cpp.obj	b887f3774b2b739e
+2946	3761	7112249557744802	06-mixed-colors.exe	17612c10dabff81f
